@@ -37,7 +37,7 @@ git clone https://github.com/munira-mohammed/Machine-Learning-Models-for-Pass-Fa
 cd student-success-ml
 
 # Install dependencies
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 # Run the notebook
 jupyter notebook Student_Success_Prediction.ipynb
