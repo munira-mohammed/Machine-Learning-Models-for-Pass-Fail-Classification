@@ -26,11 +26,14 @@ We trained and tested models on a real dataset to evaluate their performance.
 | Recall (Class 1)       | 0.88                           | 0.86                           | 0.95  | 0.89  |
 | F1-Score (Class 1)     | 0.91                           | 0.92                           | 0.81  | 0.90  |
 | **Accuracy**           | **0.89**                       | **0.91**                       | **0.72** | **0.88** |
+
+
+
 ✅ The **Decision Tree (After Pruning)** achieved the best performance among all models.
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/username/student-success-ml.git
+git clone https://github.com/munira-mohammed/Machine-Learning-Models-for-Pass-Fail-Classification.git
 cd student-success-ml
 
 # Install dependencies
