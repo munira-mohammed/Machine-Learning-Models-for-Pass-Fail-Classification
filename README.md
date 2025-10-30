@@ -1,20 +1,20 @@
-# 🎓 Student Success Prediction using Machine Learning
+# Student Success Prediction using Machine Learning
 
-## 📌 Overview
+## Overview
 This project predicts whether a student will **pass or fail** using different machine learning models.  
 We trained and tested models on a real dataset to evaluate their performance.
 
-## 🗂 Dataset
+## Dataset
 - **Source**: [UCI Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/student+performance)  
 - **Features**: demographic, social, and academic attributes  
 - **Target**: Pass (1) / Fail (0)
 
-## 🤖 Models Used
-- Decision Tree Classifier 🌳  
-- K-Nearest Neighbors (KNN) 👥  
-- Support Vector Machine (SVM) ⚡  
+## Models Used
+- Decision Tree Classifier  
+- K-Nearest Neighbors (KNN)   
+- Support Vector Machine (SVM)   
 
-## 📊 Results
+## Results
 
 | Metric                | Decision Tree (Before Pruning) | Decision Tree (After Pruning) | KNN   | SVM   |
 |------------------------|--------------------------------|--------------------------------|-------|-------|
@@ -29,8 +29,8 @@ We trained and tested models on a real dataset to evaluate their performance.
 
 
 
-✅ The **Decision Tree (After Pruning)** achieved the best performance among all models.
-## 🚀 How to Run
+The **Decision Tree (After Pruning)** achieved the best performance among all models.
+## How to Run
 ```bash
 # Clone the repository
 git clone https://github.com/munira-mohammed/Machine-Learning-Models-for-Pass-Fail-Classification.git
